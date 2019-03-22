@@ -58,6 +58,14 @@ add_message_files(
   StringPair.msg
   StringArray.msg
   ExecutionStatus.msg
+  DVLBeam.msg
+  DVL.msg
+  AltitudeStamped.msg
+  CaptainStatus.msg
+  RudderAngle.msg
+  ThrusterRPM.msg
+  ThrusterRPMStatus.msg
+  Heartbeat.msg
 )
 
 ## Generate services in the 'srv' folder
