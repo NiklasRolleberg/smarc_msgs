@@ -66,6 +66,9 @@ add_message_files(
   ThrusterRPM.msg
   ThrusterRPMStatus.msg
   Heartbeat.msg
+  UTMpoint.msg
+  UTMpose.msg
+  UTMposeStamped.msg
 )
 
 ## Generate services in the 'srv' folder
