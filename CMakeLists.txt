@@ -69,6 +69,7 @@ add_message_files(
   UTMpoint.msg
   UTMpose.msg
   UTMposeStamped.msg
+  Float32Stamped.msg
 )
 
 ## Generate services in the 'srv' folder
