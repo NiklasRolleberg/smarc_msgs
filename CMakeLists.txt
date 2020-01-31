@@ -60,12 +60,7 @@ add_message_files(
   ExecutionStatus.msg
   DVLBeam.msg
   DVL.msg
-  AltitudeStamped.msg
   CaptainStatus.msg
-  RudderAngle.msg
-  ThrusterRPM.msg
-  ThrusterRPMStatus.msg
-  Heartbeat.msg
   UTMpoint.msg
   UTMpose.msg
   UTMposeStamped.msg
