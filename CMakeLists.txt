@@ -60,7 +60,6 @@ add_message_files(
   ExecutionStatus.msg
   DVLBeam.msg
   DVL.msg
-  CaptainStatus.msg
   UTMpoint.msg
   UTMpose.msg
   UTMposeStamped.msg
